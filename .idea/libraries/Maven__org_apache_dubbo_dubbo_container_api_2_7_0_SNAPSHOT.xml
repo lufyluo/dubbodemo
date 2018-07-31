@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.dubbo:dubbo-container-api:2.7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo-container-api/2.7.0-SNAPSHOT/dubbo-container-api-2.7.0-20180701.032751-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo-container-api/2.7.0-SNAPSHOT/dubbo-container-api-2.7.0-20180701.032751-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo-container-api/2.7.0-SNAPSHOT/dubbo-container-api-2.7.0-20180701.032751-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
