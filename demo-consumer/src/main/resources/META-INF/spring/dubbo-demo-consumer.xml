@@ -32,4 +32,5 @@
     local regular interface -->
     <dubbo:reference id="demoService" check="false" interface="rpc.service.DemoService"/>
 
+    <dubbo:annotation package="rpc.consumer" />
 </beans>

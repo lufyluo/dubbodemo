@@ -6,6 +6,10 @@
         <option value="$PROJECT_DIR$/demo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/demo-api/pom.xml" />
         <option value="$PROJECT_DIR$/demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/bootConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Restdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/bootProvider/pom.xml" />
       </list>
     </option>
   </component>
